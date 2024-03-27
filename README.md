@@ -8,7 +8,7 @@ Decrypt encrypted files back to their original state.
 Simple command-line interface for ease of use.
 
 Installation
-Ensure you have Python installed on your system. You can download Python from python.org
+Ensure you have Python installed on your system. You can download Python from python.org.
 Clone or download this repository to your local machine.
 
 Learning
